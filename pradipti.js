@@ -1,3 +1,2 @@
-
-const a=10
-console.log(a)
+const p=10
+console.log(p)
