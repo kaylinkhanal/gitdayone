@@ -13,3 +13,5 @@ main()
     process.exit(1);
   });
   const a = 30
+
+const a = 999;
