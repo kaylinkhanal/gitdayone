@@ -12,3 +12,5 @@ main()
     console.error(error);
     process.exit(1);
   });
+
+const a = 999;
