@@ -15,3 +15,6 @@ main()
   const a = 30
 
 const a = 999;
+
+const b = 112312312;
+
