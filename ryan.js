@@ -14,8 +14,3 @@ main()
   });
 
 const a = 999;
-
-const b = 112312312;
-
-const c = 20
-
