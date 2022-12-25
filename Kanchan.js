@@ -1,1 +1,1 @@
-const a= 30
+const a= 10
